@@ -1,7 +1,7 @@
 # wrinkle-jump
 Privacy Policy
 Wrinkle Jump — Privacy Policy
-Effective date: [date you publish this page]
+Effective date: September 30, 2026
 
 Wrinkle Jump ("the game") is made by Dakota Unrau ("I", "me"). This policy explains what the game collects, why, and how you can delete it. The short version: the game only collects what it needs to run the global leaderboard. There are no ads, no tracking and no selling of data.
 
@@ -42,4 +42,4 @@ Changes
 If this policy changes, the updated version will be posted here with a new effective date.
 
 Contact
-Questions or requests about your data: [your contact email]
+Questions or requests about your data: wrinklejump@gmail.com
